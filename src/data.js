@@ -17,7 +17,7 @@ export const animals = [
     name: 'Golly the Goose',
     type: 'goose',
     says: 'Run pig! Be free! I would if I could.',
-    top: '370px',
+    top: '330px',
     left: '65%',
   },
   {

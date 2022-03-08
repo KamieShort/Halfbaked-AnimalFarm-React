@@ -2,6 +2,7 @@ import React from 'react';
 import Animal from '../Animal/Animal.js';
 import { animals } from '../../data';
 import './Main.css';
+import '../Animal/Animal.css';
 
 export default function Main() {
   return (
