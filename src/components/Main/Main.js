@@ -1,6 +1,6 @@
 import React from 'react';
 import Animal from '../Animal/Animal.js';
-import animals from '../../data';
+import { animals } from '../../data';
 import './Main.css';
 
 export default function Main() {
